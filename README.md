@@ -5,7 +5,7 @@
     <section id="galatasaray-fenerbahce">
       <h2>⚽️ GALATASARAY 🆚 FENERBAHÇE Selçuk TV Canlı Yayını</h2>
       <p>Türk futbolunun en büyük derbisi Selçuk TV farkıyla sizlerle! Galatasaray ile Fenerbahçe arasındaki bu nefes kesen mücadeleyi Full HD kalitesinde, kesintisiz ve tamamen ücretsiz izleyin. Futbol şölenini kaçırmayın!</p>
-      <a href="https://shortlinkapp.com/SIinY" title="GALATASARAY FENERBAHÇE Canlı İzle" target="_blank">
+      <a href="https://canlimacinizle.blogspot.com/" title="GALATASARAY FENERBAHÇE Canlı İzle" target="_blank">
         <img src="https://i.ibb.co/5K7Ks6w/zzzz3.gif" alt="GALATASARAY FENERBAHÇE Maçı">
       </a>
       <p>
@@ -26,7 +26,7 @@
     <section id="canli-mac-linki">
       <h2>🔴 Galatasaray - Fenerbahçe Derbisi Selçuk TV Canlı Yayında!</h2>
       <p>Büyük derbiyi kaçırmayın! Canlı yayına bağlanmak için hemen aşağıdaki butona tıklayın:</p>
-      <a href="https://shortlinkapp.com/SIinY" target="_blank">
+      <a href="https://canlimacinizle.blogspot.com/" target="_blank">
         <button>Selçuk TV Canlı Maç İzle</button>
       </a>
     </section>
